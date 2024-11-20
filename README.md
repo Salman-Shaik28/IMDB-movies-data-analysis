@@ -9,7 +9,7 @@ The dataset includes information about movies, such as directors, actors, genres
 2. Create a dashboard to visualize metrics and trends for better decision-making.  
 
 # Tools Used  
-- Google Sheets: Data analysis, visualization, and dashboard creation.  
+- **Google Sheets**: Data analysis, visualization, and dashboard creation.  
 
 # Key Features  
 Insights and Metrics  
@@ -41,7 +41,7 @@ This analysis provides actionable insights for movie studios to:
 - Make data-driven decisions for future movie productions.  
 - Understand industry trends based on audience preferences.  
 
-# Dashboard Link
+# Dashboard
 [View the Dashboard]![IMBD Dashboard](https://github.com/user-attachments/assets/d74766d1-8f66-4db5-85fa-364feff764c2)
 
 
