@@ -42,6 +42,6 @@ This analysis provides actionable insights for movie studios to:
 - Understand industry trends based on audience preferences.  
 
 # Dashboard
-[View the Dashboard]![IMBD Dashboard](https://github.com/user-attachments/assets/d74766d1-8f66-4db5-85fa-364feff764c2)
+![IMBD Dashboard](https://github.com/user-attachments/assets/d74766d1-8f66-4db5-85fa-364feff764c2)
 
 
